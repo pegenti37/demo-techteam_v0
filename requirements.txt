@@ -1,0 +1,56 @@
+# Core Libraries
+numpy
+pandas
+
+# Jupyter Notebooks
+jupyter
+ipykernel
+notebook
+
+# AI/ML Libraries
+torch
+tensorflow
+transformers
+scikit-learn
+
+# GitHub Automation
+pygithub
+gitpython
+
+# Front-End Development
+flask
+jinja2
+
+# Middleware/Backend
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+
+# DevOps and Testing
+pytest
+pytest-cov
+tox
+pre-commit
+flake8
+black
+mypy
+
+# QA Assessment
+great-expectations
+requests
+httpx
+selenium
+playwright
+
+# AI Agent Orchestration
+langchain
+openai
+tenacity
+celery
+
+# Visualization
+matplotlib
+seaborn
+plotly
+dash
